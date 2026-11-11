@@ -4,7 +4,7 @@
 
 ![Tema OEL Colorido com música tocando](docs/capa.jpg)
 
-## ⬇️ Baixar
+## Baixar
 
 Pegue o arquivo **`AudioWallpaper-x.y.apk`** na [última versão](../../releases/latest).
 
@@ -18,14 +18,14 @@ Precisa de **Android 9 ou mais novo**. Testado num Galaxy S10+ com Android 12 e 
 
 ## O que ele faz
 
-- 🎚️ **Espectro de verdade:** cada barra mostra uma faixa real de frequência, de 45 Hz a 16 kHz. Graves à esquerda, agudos à direita.
-- 📻 **37 temas:** de VU analógico a rádio 1 DIN e painel full-dot animado, com botões e dials desenhados. Marque os preferidos com a estrela.
-- 🎵 **Nome da música:** título e artista no display de cada aparelho, rolando quando não cabem.
-- 🎛️ **Botões que funcionam:** play/pause, faixa anterior e próxima e volume pelos botões e dials do tema, com Spotify e outros apps.
-- 🔵 **Bluetooth e bateria:** ícone quando há fone ou som do carro conectado, e a bateria no estilo do display de cada tema.
-- 🌙 **Modo noite:** escurece sozinho no escuro, pelo sensor de luz.
-- 🛡️ **Cuida da tela e do calor:** a imagem anda devagar para não marcar a tela, e o app baixa o brilho se a bateria esquentar.
-- 📐 **Sempre deitado:** gira entre os dois lados ou fica travado no lado que você escolher.
+- **Espectro de verdade:** cada barra mostra uma faixa real de frequência, de 45 Hz a 16 kHz. Graves à esquerda, agudos à direita.
+- **37 temas:** de VU analógico a rádio 1 DIN e painel full-dot animado, com botões e dials desenhados. Marque os preferidos com a estrela.
+- **Nome da música:** título e artista no display de cada aparelho, rolando quando não cabem.
+- **Botões que funcionam:** play/pause, faixa anterior e próxima e volume pelos botões e dials do tema, com Spotify e outros apps.
+- **Bluetooth e bateria:** ícone quando há fone ou som do carro conectado, e a bateria no estilo do display de cada tema.
+- **Modo noite:** escurece sozinho no escuro, pelo sensor de luz.
+- **Cuida da tela e do calor:** a imagem anda devagar para não marcar a tela, e o app baixa o brilho se a bateria esquentar.
+- **Sempre deitado:** gira entre os dois lados ou fica travado no lado que você escolher.
 
 ## Os temas
 
