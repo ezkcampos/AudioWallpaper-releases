@@ -38,8 +38,14 @@ Precisa de **Android 9 ou mais novo**. Testado num Galaxy S10+ com Android 12 e 
 ### Aparelhos dos anos 2000
 ![Temas de aparelhos dos anos 2000](docs/temas-anos-2000.jpg)
 
-### Cabine dos anos 90, cabine dos anos 2000, painéis com animação e rádios 1 DIN
-Toca-fitas com carretéis girando, sintonia de FM com agulha, EQ de sliders, subwoofer, trocador de CD, anel de LEDs, cinco painéis full-dot animados (cidade neon, estrada retrô, oceano, fogos, galáxia) e quatro rádios 1 DIN.
+### Cabine dos anos 90 e 2000
+![Temas de cabine dos anos 90 e 2000](docs/temas-cabine.jpg)
+
+### Painéis com animação
+![Painéis full-dot com animação](docs/temas-paineis.jpg)
+
+### Rádios 1 DIN
+![Rádios 1 DIN](docs/temas-1din.jpg)
 
 Os temas são recriações inspiradas no estilo da época. Nenhum usa marca ou modelo real.
 
